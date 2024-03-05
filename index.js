@@ -1,8 +1,5 @@
-const autoRallySaffaryClub = 'str' (camelCaseNaimingConvetionType)
+const str = 'str1'
+const str2 = 'str2'
 
-
-const ELEMENTO_NOME_PPROPRIETA_CHIAVE_TAVOLA_TYPE = 'ELEMENTO_NOME_PROPRIETA_CHIAVE_TAVOLA-TYPE'
-console.log(ELEMENTO_NOME_PPROPRIETA_CHIAVE_TAVOLA_TYPE) 
-
-
-const Economy = new Object
+console.log(str + ' ' + str2)
+console.log('Buongiorno mondo   ${str}  ${str2}')
