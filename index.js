@@ -7,9 +7,16 @@ const falsy6 = undefined
 
 
 
-const valueAnd = falsy1 || falsy2 || falsy3 || 'str'
+const volueAND = falsy1 && falsy2
+console.log(valueAND)
 
-console.log( falsy1 || falsy2 || falsy3 || 888)
+const valueAND = 1 && 3 && 5 && 7 && 'false'
+console.log(volueAND)
+
+
+
+
+
 
 
 
