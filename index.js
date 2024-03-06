@@ -1,17 +1,15 @@
-const falsy1 = false
-const falsy2 = NaN
-const falsy3 = null
-const falsy4 = ' '
-const falsy5 = 0
-const falsy6 = undefined
+const num = 80
 
+if(num > 90) {
+    console.log('mai mare decat 90')
+}else if (num > 50) {
+    console.log('mai mare decat 50')
+}else if (num > 30) {
+    console.log('mai mare decat 30')
+} else if (num > 10) {
+    console.log('mai mare decat 10')
+}
 
-
-const volueAND = falsy1 && falsy2
-console.log(valueAND)
-
-const valueAND = 1 && 3 && 5 && 7 && 'false'
-console.log(volueAND)
 
 
 
